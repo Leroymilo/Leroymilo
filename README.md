@@ -1,7 +1,7 @@
 Hi, I'm Leroymilo on Internet
 I code in python with numpy, matplotlib and pygame for my projects
 I know how to use SQL with SQLite
-I have bases of C and C++ through arduino programming
+I have bases of C++ and Qt
 
 I'm open for new projects using what I already know or to learn about new languages
 
