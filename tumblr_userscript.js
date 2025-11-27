@@ -17,7 +17,7 @@ const react_props_key = Object.keys(document.getElementsByTagName("div").item(1)
 const dash = document.getElementsByClassName("zAlrA").item(0);
 
 const callback = (mutationList, observer) => {
-    let culprits = dash.querySelectorAll(".eA_DC.uaaSl.y3qwY, .u2tXn.fa1Zw.fNoJp .qYXF9.aXLOG.ouMsp");
+    let culprits = dash.querySelectorAll(".eA_DC.uaaSl.y3qwY, .u2tXn.fa1Zw.fNoJp, .qYXF9.aXLOG.ouMsp");
     culprits.forEach((elt) => {
         if (!elt.hasOwnProperty(react_props_key)) return;
         if (elt[react_props_key].onClick == null) return;
